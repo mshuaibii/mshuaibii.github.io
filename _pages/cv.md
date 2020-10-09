@@ -4,5 +4,6 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
+Coming soon...
 
 {% include base_path %}
