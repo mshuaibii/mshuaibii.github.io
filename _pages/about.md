@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Chemical Engineering PhD student at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Zachary Ulissi](https://ulissigroup.cheme.cmu.edu/bio/). My research focuses on graph neural networks and deep learning applications to catalysis. I strive to develop models and frameworks capable of accelerating atomistic simulations by orders of magnitude while retaining ab-initio level accuracy. I work closely with collaborators at Facebook AI Research (FAIR) to build datasets and models to meet such goals. Additionally, I explore active learning techniques to tackle similar problems in the small-data regime.
+I am a 3rd year Chemical Engineering PhD student at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Zachary Ulissi](https://ulissigroup.cheme.cmu.edu/bio/). My research focuses on graph neural networks and deep learning applications to catalysis. I strive to develop models and frameworks capable of accelerating atomistic simulations by orders of magnitude while retaining ab-initio level accuracy. Additionally, I explore active learning techniques to tackle similar problems in the small-data regime.
 
 During my PhD, I spent a summer as an intern at [Facebook AI Research](https://ai.facebook.com/) (2020), working with [Larry Zitnick](https://research.fb.com/people/zitnick-larry/) and [Devi Parikh](https://research.fb.com/people/parikh-devi/) on applying graph neural networks to model atomic interactions.
 
