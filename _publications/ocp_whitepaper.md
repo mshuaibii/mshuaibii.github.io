@@ -1,5 +1,5 @@
 ---
-title: "An Introduction to Electrocatalyst Design using Machine Learningfor Renewable Energy Storage"
+title: "An Introduction to Electrocatalyst Design using Machine Learning for Renewable Energy Storage"
 collection: publications
 permalink: /publication/ocp-whitepaper
 date: 2020-10-13
