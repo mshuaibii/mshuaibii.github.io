@@ -4,6 +4,10 @@ collection: publications
 permalink: /publication/ocp-whitepaper
 date: 2020-10-13
 venue: 'arxiv:TBD'
-link: 'https://dl.fbaipublicfiles.com/opencatalystproject/papers/oc20_whitepaper.pdf'
-citation: 'C. L. Zitnick, L. Chanussot, A. Das, S. Goyal, J. Heras-Domingo, C. Ho, W. Hu, T. Lavril, A. Palizhati, M. Riviere, M. Shuaibi, A. Sriram, K. Tran, B. Wood, J. Yoon, D. Parikh, Z. Ulissi'
+link: 'https://arxiv.org/abs/2010.09435v1'
+citation: '<ul>
+<li>
+C. Lawrence Zitnick, Lowik Chanussot, Abhishek Das, Siddharth Goyal, Javier Heras-Domingo, Caleb Ho, Weihua Hu, Thibaut Lavril, Aini Palizhati, Morgane Riviere, Muhammed Shuaibi, Anuroop Sriram, Kevin Tran, Brandon Wood, Junwoong Yoon, Devi Parikh, Zachary Ulissi: “An Introduction to Electrocatalyst Design using Machine Learning for Renewable Energy Storage”, 2020; <a href='http://arxiv.org/abs/2010.09435'>arXiv:2010.09435</a>.
+</li>
+</ul>'
 ---
