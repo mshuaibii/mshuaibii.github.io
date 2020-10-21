@@ -5,5 +5,5 @@ permalink: /publication/ocp-dataset
 date: 2020-10-19
 venue: 'arxiv:TBD, submitted. American Chemical Society - Catalysis'
 link: 'https://dl.fbaipublicfiles.com/opencatalystproject/papers/oc20_dataset.pdf'
-citation: 'L. Chanussot*, A. Das*, S. Goyal*, T. Lavril*, M. Shuaibi*, M. Riviere, K. Tran, J. Heras-Domingo, C. Ho, W. Hu, A. Palizhati, A. Sriram, B. Wood, J. Yoon, D. Parikh, C. L. Zitnick, Z. Ulissi, <i> in prep. (2020)</i>'
+citation: '* Lowik Chanussot*, Abhishek Das*, Siddharth Goyal*, Thibaut Lavril*, Muhammed Shuaibi*, Morgane Riviere, Kevin Tran, Javier Heras-Domingo, Caleb Ho, Weihua Hu, Aini Palizhati, Anuroop Sriram, Brandon Wood, Junwoong Yoon, Devi Parikh, C. Lawrence Zitnick, Zachary Ulissi: “The Open Catalyst 2020 (OC20) Dataset and Community Challenges”, 2020; arXiv:2010.09990.'
 ---
