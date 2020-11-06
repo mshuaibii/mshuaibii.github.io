@@ -16,7 +16,7 @@ main:
     #url: /year-archive/
     
   - title: "CV"
-    url: ../downloads/Shuaibi_CV.pdf
+    url: /cv/
     
   - title: "Software"
     url: /software/
