@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "CV"
-permalink: ../downloads/Shuaibi_CV.pdf
+permalink: /cv/
 author_profile: true
 ---
