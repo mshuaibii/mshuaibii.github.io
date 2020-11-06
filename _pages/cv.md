@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: redirect
 title: "CV"
 permalink: /cv/
-author_profile: true
+destination: ../downloads/Shuaibi_CV.pdf
+canonical: true
 ---
-**[Shuaibi CV](../downloads/Shuaibi_CV.pdf)**
