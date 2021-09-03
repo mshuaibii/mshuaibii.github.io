@@ -7,7 +7,7 @@ title: "Software"
 
 The development of renewable energy technologies has been limited by the availability of efficient and economical catalysts. To address this, I work closely with collaborators at [Facebook AI Research](https://ai.facebook.com/) to explore broader catalysis and machine learning applications. We developed the [Open Catalyst Dataset (OC20)](https://opencatalystproject.org/) to enable the development of accurate machine learning models for large-scale atomistic simulations and catalyst screening.
 
-I am a developer of the corresponding codebase, [`ocp`](https://github.com/Open-Catalyst-Project/ocp), which includes baseline models, data loaders, evaluators and tools necessary to boot-strap research on the proposed challenges.
+I am an active developer of the corresponding codebase, [`ocp`](https://github.com/Open-Catalyst-Project/ocp), which includes baseline models, data loaders, evaluators and tools necessary to boot-strap research on the proposed challenges.
 
 Website: [opencatalystproject.org](https://opencatalystproject.org/)  
 Codebase: [github.com/Open-Catalyst-Project/ocp](https://github.com/Open-Catalyst-Project/ocp)  
