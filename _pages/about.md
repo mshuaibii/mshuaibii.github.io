@@ -15,5 +15,3 @@ We recently released [Open Catalyst 2020 Dataset](https://opencatalystproject.or
 Prior to grad school, I worked for the [U.S. Environmental Protection Agency](https://www.epa.gov/) as an Environmental Engineer in the Air & Radiation Division. There I was involved in particulate matter emissions modeling, field inspections, and settlement negotiations. I graduated from [Illinois Tech](https://www.iit.edu/) in 2017 with a Bachelor's and Master's of Advanced Studies in Chemical Engineering.
 
 In my free time I enjoy spending time with family and friends. I am extremely competitive when it comes to sports and board games – my favorites being volleyball and Catan. My wife and I love exploring cities, parks, and new food places.
-
-I am currently on the job market for Fall 2022 starting positions, please reach out with any opportunities you may have.
