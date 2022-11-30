@@ -6,5 +6,5 @@ date: 2022-04-06
 venue: 'arXiv/2204.02782'
 link: 'https://arxiv.org/abs/2204.02782'
 image: '../images/gemnet_oc.jpg'
-citation: 'Johannes Gasteiger, <b>Muhammed Shuaibi</b>, Anuroop Sriram, Stephan Günnemann, Zachary Ulissi, C. Lawrence Zitnick, Abhishek Das: "How Do Graph Networks Generalize to Large and Diverse Molecular Systems?, 2022; arXiv/2204.02782"'
+citation: 'Johannes Gasteiger, <b>Muhammed Shuaibi</b>, Anuroop Sriram, Stephan Günnemann, Zachary Ulissi, C. Lawrence Zitnick, Abhishek Das: "How Do Graph Networks Generalize to Large and Diverse Molecular Systems?, 2022; TMLR"'
 ---
