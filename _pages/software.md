@@ -11,7 +11,7 @@ I am an active developer of the corresponding codebase, [`ocp`](https://github.c
 
 Website: [opencatalystproject.org](https://opencatalystproject.org/)  
 Codebase: [github.com/Open-Catalyst-Project/ocp](https://github.com/Open-Catalyst-Project/ocp)  
-Dataset: [github.com/Open-Catalyst-Project/ocp/blob/master/DATASET.md](https://github.com/Open-Catalyst-Project/ocp/blob/master/DATASET.md)
+Dataset: [fair-chem.github.io/core/datasets/oc20.html](fair-chem.github.io/core/datasets/oc20.html)
 
 ## Atomistic Machine Learning Package PyTorch, AMPtorch - `amptorch`
 
